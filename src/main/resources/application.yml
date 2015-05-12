@@ -1,8 +1,9 @@
 ---
-licenseKey: test-license-key
+server: 54.200.253.18:9998
+profile: hm-dyna-agent
 serviceBroker:
-  planId: 1E62471A-58E5-479D-95FB-0A12A7C28AAC
-  serviceId: 3475F671-2630-4C32-8030-C09C6BD6298C
+  planId: 03345e9f-d2a7-4380-b43b-bce61f11121a
+  serviceId: 50ea410d-db0c-46fb-b2fb-01999f8bd600
 security.user.name: user # login username
 security.user.password: user # login password
 security.user.role: USER # role assigned to the user

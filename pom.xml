@@ -30,7 +30,7 @@
     </parent>
 
     <groupId>com.hm-covisint</groupId>
-    <artifactId>new-relic-service-broker</artifactId>
+    <artifactId>dynatrace-service-broker</artifactId>
     <version>1.3.0.BUILD-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -71,7 +71,7 @@
     </dependencies>
 
     <build>
-        <finalName>new-relic-service-broker</finalName>
+        <finalName>dynatrace-service-broker</finalName>
 
         <plugins>
             <plugin>

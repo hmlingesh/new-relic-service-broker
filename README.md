@@ -1,4 +1,4 @@
-# New Relic Service Broker
+# Dynatrace Service Broker
 [![Build Status](https://travis-ci.org/nebhale/new-relic-service-broker.svg?branch=master)](https://travis-ci.org/nebhale/new-relic-service-broker)
 
 This project is a self-hostable application that provides a service broker that proxies New Relic credentials to applications.  This is typically useful for on-premise deployments of Cloud Foundry that wish to easily bind to an off-premise New Relic deployment.  In order to facilitate self-hosting, the application is designed to work in [Cloud Foundry][p].
